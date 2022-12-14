@@ -9,7 +9,7 @@
   <a href="https://mobile.twitter.com/Anno74718911">
       </a>
   <a href="[https://discord.com/invite/jZQs6Wu](https://discord.gg/UE4rpTcPjy)">
-    <img src="https://cdn.discordapp.com/attachments/936113915392311317/1051440751344615444/IMG_20220602_141251.jpg" alt="Stealth Discord"/> <width=12px>
+<!--     <img src="https://cdn.discordapp.com/attachments/936113915392311317/1051440751344615444/IMG_20220602_141251.jpg" alt="Stealth Discord"/> <width=12px> -->
   </a>
   <a href="https://www.youtube.com/@arnavplays4468">
     <img src="	ArnavPlays/youtube/views/:videoId" alt="Arnav Plays's YouTube channel"/>
