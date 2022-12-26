@@ -4,6 +4,7 @@
 
 - 🌟 Part of the <a href="[https://stars.github.com/profiles//](https://github.com/Arnav1771)"> GitHub Stars program</a>
 - 🟩 Join our inclusive community <a href="https://discord.gg/UE4rpTcPjy">Arnav1771</a>!</b> 
+<a href=#><img src="gg.svg"></a>
 
 <p align="center">
   <a href="https://mobile.twitter.com/Anno74718911">
