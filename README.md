@@ -29,11 +29,11 @@ A highly motivated computer science Student with a passion for software developm
 - Image Classification for Dogs and Cats Using CNN
 Authors:- Arnav Bhargava, Kunal Paliwal
 - https://ijsret.com/2023/03/01/ijsret-volume-9-issue-2-mar-apr-2023/
-- 
+
 
 
 ### Hobbies
-- Playing uno
+- Playing Badminton bl, swimming
 - Reading fiction books (manga)
 - latest manga (one piece)
 - Playing video games
@@ -42,6 +42,9 @@ Authors:- Arnav Bhargava, Kunal Paliwal
 - [ANIME] : https://github.com/Arnav1771/Anime_I-_am_watching_XDD
 
 ### Currently Listening To
-- Song: Believer
-- Artist: Imagine Dragons
-- [Link to Spotify](https://open.spotify.com/track/0CcQNd8CINkwQfe1RDtGV6)
+- Artist: Imagine Dragons, Eminem , ACDC , GUNS & ROSES , Tokyo Machine , 
+- [Link to Spotify](https://open.spotify.com/playlist/6F9TDm1Uw7gIOycjEnFihj?si=8ad7c8f7b9fd4563&nd=1)
+- [Link to Spotify](https://open.spotify.com/playlist/63m6YlgxtdYzo8kHY8xshS?si=6903cabafbb3466c&nd=1)
+- [Link to Spotify](https://open.spotify.com/playlist/2q7xfd5yH97eTmWkPbCdFa?si=8de9a41cdac94c50&nd=1)
+- [Link to Spotify](https://open.spotify.com/playlist/1AQLzmkNrvJVAwec9iZSih?si=f982eec371c046df&nd=1)
+- [Link to Spotify](https://open.spotify.com/playlist/6SFsPoKuaT8Jsr2dgs6tUZ?si=f9600fa7097f421c&nd=1)
