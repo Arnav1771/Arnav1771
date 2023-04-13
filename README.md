@@ -1,8 +1,10 @@
-### HELLO EVERYONE [<div class="tenor-gif-embed" data-postid="24581588" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hand-gif-24581588">Hand GIF</a>from <a href="https://tenor.com/search/hand-gifs">Hand GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>](https://tenor.com/bPiXo.gif)
+### HELLO EVERYONE 
 
+- Name **Arnav Bhargava**
 
-# Arnav Bhargava
-## Computer Science Student, currently Studying in VIT Bhopal
+- Live in **Delhi, India**
+
+- Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
 ### Contact Information
 - Email: arnavbhargava57@gmail.com
 - LinkedIn: NOT RIGHT NOW!!
