@@ -14,7 +14,7 @@
   </a>
   <form action="/action_page.php">
   <label for="fname">Arnav Plays</label>
-  <input type="text" id="fname" name="fname"><br><br>
+  <input type="text" id="Arnav Plays" name="https://www.youtube.com/@arnavplays4468"><br><br>
   <input type="image" src="https://yt3.googleusercontent.com/ytc/AGIKgqPU1nhCKA4fgIY8_yQI1yyatIGmD7BVSwoyfWGL5IY=s176-c-k-c0x00ffffff-no-rj" alt="Submit" width="48" height="48">
 </form>
 </p>
