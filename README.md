@@ -1,32 +1,47 @@
-### Hi there 👋
+# Arnav Bhargava
+## Computer Science Student, currently Studying in VIT Bhopal
+### Contact Information
+- Email: arnavbhargava57@gmail.com
+- LinkedIn: NOT RIGHT NOW!!
+- GitHub: [Arnav1771](https://github.com/Arnav1771)
+- YouTube: https://www.youtube.com/@arnavplays4468
 
-<p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="https://www.youtube.com/@arnavplays4468">YouTube channel</a> so we can geek out 🎥</p>
+### Summary
+A highly motivated computer science Student with a passion for software development with Python and machine Learning Models and problem-solving. Seeking a challenging role in the tech industry to apply my skills and grow as a professional.
 
-- 🌟 Part of the <a href="[https://stars.github.com/profiles//](https://github.com/Arnav1771)"> GitHub Stars program</a>
-- 🟩 Join our inclusive community <a href="https://discord.gg/UE4rpTcPjy">Arnav1771</a>!</b> 
-<a href=#><img src="gg.svg"></a>
+### Education
+- B.Tech in Computer Science, VIT Bhopal University (2021-2025)
+- Relevant Coursework: Algorithms and Data Structures, Object-Oriented Programming, Database Systems, Operating Systems, Computer Networks.
 
-<p align="center">
-  <a href="https://mobile.twitter.com/Anno74718911">
-      </a>
-  <a href="[https://discord.com/invite/jZQs6Wu](https://discord.gg/UE4rpTcPjy)">
-<!--     <img src="https://cdn.discordapp.com/attachments/936113915392311317/1051440751344615444/IMG_20220602_141251.jpg" alt="Stealth Discord"/> <width=12px> -->
-  </a>
-  <form action="/action_page.php">
-  <label for="fname">Arnav Plays</label>
-  <input type="text" id="Arnav Plays" name="https://www.youtube.com/@arnavplays4468"><br><br>
-  <input type="image" src="https://yt3.googleusercontent.com/ytc/AGIKgqPU1nhCKA4fgIY8_yQI1yyatIGmD7BVSwoyfWGL5IY=s176-c-k-c0x00ffffff-no-rj" alt="Submit" width="48" height="48">
-</form>
-</p>
+### Skills
+- Programming Languages: HTML, CSS  Python,  R, Algoritms, DART
+- Frameworks: Django, Flask
+- Databases: MySQL, MongoDB , 
+- Tools: Git, Visual Studio Code, Jupyter Notebook , Google Collab
 
+### Projects
+- [Project 1](https://github.com/Arnav1771/Project-Dogs-Vs-Cats): A Machine Learning Project where the system will tell if the animal in the files is Dog or a Cat.
+- [Project 2](https://github.com/Arnav1771/youtube_Video_Downloader): A simple code to download video files through YouTube Links
+- [Project 2](https://github.com/Arnav1771/Speech_to_-Text_Project): A Simple Project of Speech To Text using HTML and some APIs
+- [Project 2](https://github.com/johndoe/project2): An image processing tool for social media using Python.
 
-
----
-![t](https://user-images.githubusercontent.com/60522445/206898013-0811257d-8ee7-4354-ac06-fc1ca90cb926.png)
-
-
-
-![q1g5wh05h4j91](https://user-images.githubusercontent.com/60522445/206897905-67ccc5fa-23f6-42c5-9b45-819687b868c6.jpg)
+### Journals
+- Image Classification for Dogs and Cats Using CNN
+Authors:- Arnav Bhargava, Kunal Paliwal
+- https://ijsret.com/2023/03/01/ijsret-volume-9-issue-2-mar-apr-2023/
+- 
 
 
+### Hobbies
+- Playing uno
+- Reading fiction books (manga)
+- latest manga (one piece)
+- Playing video games
 
+### Anime
+- [ANIME] : https://github.com/Arnav1771/Anime_I-_am_watching_XDD
+
+### Currently Listening To
+- Song: Believer
+- Artist: Imagine Dragons
+- [Link to Spotify](https://open.spotify.com/track/0CcQNd8CINkwQfe1RDtGV6)
