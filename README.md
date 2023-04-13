@@ -13,7 +13,7 @@
 <!--     <img src="https://cdn.discordapp.com/attachments/936113915392311317/1051440751344615444/IMG_20220602_141251.jpg" alt="Stealth Discord"/> <width=12px> -->
   </a>
   <a href="https://www.youtube.com/@arnavplays4468">
-    <img src="	ArnavPlays/youtube/views/:videoId" alt="Arnav Plays's YouTube channel"/>
+    <img src="	[ArnavPlays/youtube/views/:videoId](https://yt3.googleusercontent.com/ytc/AGIKgqPU1nhCKA4fgIY8_yQI1yyatIGmD7BVSwoyfWGL5IY=s176-c-k-c0x00ffffff-no-rj)" alt="Arnav Plays's YouTube channel"/>
   </a>
 </p>
 
