@@ -12,9 +12,11 @@
   <a href="[https://discord.com/invite/jZQs6Wu](https://discord.gg/UE4rpTcPjy)">
 <!--     <img src="https://cdn.discordapp.com/attachments/936113915392311317/1051440751344615444/IMG_20220602_141251.jpg" alt="Stealth Discord"/> <width=12px> -->
   </a>
-  <a href="https://www.youtube.com/@arnavplays4468">
-    <img src="<input type="https://yt3.googleusercontent.com/ytc/AGIKgqPU1nhCKA4fgIY8_yQI1yyatIGmD7BVSwoyfWGL5IY=" src="submit.gif" alt="Submit" width="48" height="48">" alt="Arnav Plays's YouTube channel"/>
-  </a>
+  <form action="/action_page.php">
+  <label for="fname">Arnav Plays</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <input type="image" src="https://yt3.googleusercontent.com/ytc/AGIKgqPU1nhCKA4fgIY8_yQI1yyatIGmD7BVSwoyfWGL5IY=s176-c-k-c0x00ffffff-no-rj" alt="Submit" width="48" height="48">
+</form>
 </p>
 
 
