@@ -22,19 +22,7 @@
 ---
 ![t](https://user-images.githubusercontent.com/60522445/206898013-0811257d-8ee7-4354-ac06-fc1ca90cb926.png)
 
-### Latest YouTube videos
 
-<table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=anfUtSZ2rB4"><img width="140px" src="![th-2760285132](https://user-images.githubusercontent.com/60522445/206898057-ccf34c5c-0f63-445b-920a-a76d90170141.png)"></a></td>
-<td><a href="[https://www.youtube.com/watch?v=iqIFD02OkVE](https://www.youtube.com/watch?v=9Jz1eIx_NHU)">Open Source Reactions &amp; Reviews</a> (Dec 10, 2022)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=yOPyK5WMxCs"><img width="140px" src="https://i.ytimg.com/vi/yOPyK5WMxCs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yOPyK5WMxCs">Kubernetes as a Web Dev</a> (Dec 7, 2022)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=W0pf9UAXyS0"><img width="140px" src="https://i.ytimg.com/vi/W0pf9UAXyS0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=W0pf9UAXyS0">Open Source paving the way to sustainability in tech: Interview with Cheryl Hung</a> (Dec 5, 2022)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ES05mCEomm0"><img width="140px" src="https://i.ytimg.com/vi/ES05mCEomm0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ES05mCEomm0">REACTING to your GitHub SPONSORS page</a> (Dec 2, 2022)<br/></td></tr>
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-</table>
 
 ![q1g5wh05h4j91](https://user-images.githubusercontent.com/60522445/206897905-67ccc5fa-23f6-42c5-9b45-819687b868c6.jpg)
 
