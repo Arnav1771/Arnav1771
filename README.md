@@ -4,7 +4,7 @@
 
 - Live in **Delhi, India**
 
-- Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
+- Studying [***Computer Science Specialisation with Artificial Intelligence And Machine learning***](https://smkn4palembang.sch.id/)
 ### Contact Information
 - Email: arnavbhargava57@gmail.com
 - LinkedIn: NOT RIGHT NOW!!
