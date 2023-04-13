@@ -16,7 +16,7 @@ A highly motivated computer science Student with a passion for software developm
 ### Skills
 - Programming Languages: HTML, CSS  Python,  R, Algoritms, DART
 - Frameworks: Django, Flask
-- Databases: MySQL, MongoDB , 
+- Databases: MySQL, MongoDB 
 - Tools: Git, Visual Studio Code, Jupyter Notebook , Google Collab
 
 ### Projects
@@ -33,7 +33,7 @@ Authors:- Arnav Bhargava, Kunal Paliwal
 
 
 ### Hobbies
-- Playing Badminton bl, swimming
+- Playing Badminton , swimming
 - Reading fiction books (manga)
 - latest manga (one piece)
 - Playing video games
