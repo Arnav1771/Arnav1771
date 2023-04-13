@@ -1,3 +1,5 @@
+### HELLO EVERYONE ![hand](https://user-images.githubusercontent.com/60522445/231805756-0b1a270f-fdd0-4677-a0a8-26abbef2a1bf.gif)
+
 # Arnav Bhargava
 ## Computer Science Student, currently Studying in VIT Bhopal
 ### Contact Information
@@ -14,16 +16,17 @@ A highly motivated computer science Student with a passion for software developm
 - Relevant Coursework: Algorithms and Data Structures, Object-Oriented Programming, Database Systems, Operating Systems, Computer Networks.
 
 ### Skills
-- Programming Languages: HTML, CSS  Python,  R, Algoritms, DART
+- Programming Languages: HTML, CSS , Python,  R, Algoritms, DART
 - Frameworks: Django, Flask
 - Databases: MySQL, MongoDB 
-- Tools: Git, Visual Studio Code, Jupyter Notebook , Google Collab
+- Tools: Sublime Text , Git, Visual Studio Code, Jupyter Notebook , Google Collab
+- Operating System : Win xp,10,11,Kali Linux, Arch , Manjaro
+- Game Engine : Unreal Engine 4,5 , Unity , Godot
 
 ### Projects
-- [Project 1](https://github.com/Arnav1771/Project-Dogs-Vs-Cats): A Machine Learning Project where the system will tell if the animal in the files is Dog or a Cat.
+- [Project 1](https://github.com/Arnav1771/Project-Dogs-Vs-Cats): A Machine Learning Project where the system will tell if the animal is Dog or a Cat.
 - [Project 2](https://github.com/Arnav1771/youtube_Video_Downloader): A simple code to download video files through YouTube Links
-- [Project 2](https://github.com/Arnav1771/Speech_to_-Text_Project): A Simple Project of Speech To Text using HTML and some APIs
-- [Project 2](https://github.com/johndoe/project2): An image processing tool for social media using Python.
+- [Project 3](https://github.com/Arnav1771/Speech_to_-Text_Project): A Simple Project of Speech To Text using HTML and some APIs
 
 ### Journals
 - Image Classification for Dogs and Cats Using CNN
@@ -33,7 +36,7 @@ Authors:- Arnav Bhargava, Kunal Paliwal
 
 
 ### Hobbies
-- Playing Badminton , swimming
+- Playing Badminton , Swimming , Table Tennis
 - Reading fiction books (manga)
 - latest manga (one piece)
 - Playing video games
@@ -42,9 +45,9 @@ Authors:- Arnav Bhargava, Kunal Paliwal
 - [ANIME] : https://github.com/Arnav1771/Anime_I-_am_watching_XDD
 
 ### Currently Listening To
-- Artist: Imagine Dragons, Eminem , ACDC , GUNS & ROSES , Tokyo Machine , 
-- [Link to Spotify](https://open.spotify.com/playlist/6F9TDm1Uw7gIOycjEnFihj?si=8ad7c8f7b9fd4563&nd=1)
-- [Link to Spotify](https://open.spotify.com/playlist/63m6YlgxtdYzo8kHY8xshS?si=6903cabafbb3466c&nd=1)
-- [Link to Spotify](https://open.spotify.com/playlist/2q7xfd5yH97eTmWkPbCdFa?si=8de9a41cdac94c50&nd=1)
-- [Link to Spotify](https://open.spotify.com/playlist/1AQLzmkNrvJVAwec9iZSih?si=f982eec371c046df&nd=1)
-- [Link to Spotify](https://open.spotify.com/playlist/6SFsPoKuaT8Jsr2dgs6tUZ?si=f9600fa7097f421c&nd=1)
+- Artist: Imagine Dragons, Eminem , ACDC , GUNS & ROSES , Tokyo Machine ETC.
+- [Spotify Playlist #01](https://open.spotify.com/playlist/6F9TDm1Uw7gIOycjEnFihj?si=8ad7c8f7b9fd4563&nd=1)
+- [Spotify Playlist #02](https://open.spotify.com/playlist/63m6YlgxtdYzo8kHY8xshS?si=6903cabafbb3466c&nd=1)
+- [Spotify Playlist #03](https://open.spotify.com/playlist/2q7xfd5yH97eTmWkPbCdFa?si=8de9a41cdac94c50&nd=1)
+- [Spotify Playlist #04](https://open.spotify.com/playlist/1AQLzmkNrvJVAwec9iZSih?si=f982eec371c046df&nd=1)
+- [Spotify Playlist #05](https://open.spotify.com/playlist/6SFsPoKuaT8Jsr2dgs6tUZ?si=f9600fa7097f421c&nd=1)
