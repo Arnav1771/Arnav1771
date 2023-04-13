@@ -26,7 +26,7 @@
 
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=anfUtSZ2rB4"><img width="140px" src="![th-2760285132](https://user-images.githubusercontent.com/60522445/206898057-ccf34c5c-0f63-445b-920a-a76d90170141.png)"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iqIFD02OkVE">Open Source Reactions &amp; Reviews</a> (Dec 10, 2022)<br/></td></tr>
+<td><a href="[https://www.youtube.com/watch?v=iqIFD02OkVE](https://www.youtube.com/watch?v=9Jz1eIx_NHU)">Open Source Reactions &amp; Reviews</a> (Dec 10, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yOPyK5WMxCs"><img width="140px" src="https://i.ytimg.com/vi/yOPyK5WMxCs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yOPyK5WMxCs">Kubernetes as a Web Dev</a> (Dec 7, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=W0pf9UAXyS0"><img width="140px" src="https://i.ytimg.com/vi/W0pf9UAXyS0/mqdefault.jpg"></a></td>
