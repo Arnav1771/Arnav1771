@@ -1,4 +1,5 @@
-### HELLO EVERYONE ![hand](https://user-images.githubusercontent.com/60522445/231805756-0b1a270f-fdd0-4677-a0a8-26abbef2a1bf.gif width="48")
+### HELLO EVERYONE <img src="https://github.com/asd/privategithubrepo/images/output/video1.gif" width="48">
+
 
 # Arnav Bhargava
 ## Computer Science Student, currently Studying in VIT Bhopal
