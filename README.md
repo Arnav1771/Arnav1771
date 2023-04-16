@@ -35,8 +35,7 @@ A highly motivated computer science Student with a passion for software developm
 ### Journals
 - Image Classification for Dogs and Cats Using CNN
 Authors:- Arnav Bhargava, Kunal Paliwal
--[IJSRET](https://ijsret.com/2023/03/01/ijsret-volume-9-issue-2-mar-apr-2023/)
-
+- [IJSRET Paper Link](https://ijsret.com/2023/03/01/ijsret-volume-9-issue-2-mar-apr-2023/)
 
 
 ### Hobbies
