@@ -9,8 +9,8 @@
 ### Contact Information
 - Email: arnavbhargava57@gmail.com
 - LinkedIn: NOT RIGHT NOW!!
-- GitHub: [Arnav1771](https://github.com/Arnav1771)
-- YouTube: https://www.youtube.com/@arnavplays4468
+- GitHub:  [Arnav1771](https://github.com/Arnav1771)
+- YouTube: [Arnav Plays](https://www.youtube.com/@arnavplays4468)
 
 ### Summary
 A highly motivated computer science Student with a passion for software development with Python and machine Learning Models and problem-solving. Seeking a challenging role in the tech industry to apply my skills and grow as a professional.
