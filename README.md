@@ -35,7 +35,7 @@ A highly motivated computer science Student with a passion for software developm
 ### Journals
 - Image Classification for Dogs and Cats Using CNN
 Authors:- Arnav Bhargava, Kunal Paliwal
-- https://ijsret.com/2023/03/01/ijsret-volume-9-issue-2-mar-apr-2023/
+-[IJSRET](https://ijsret.com/2023/03/01/ijsret-volume-9-issue-2-mar-apr-2023/)
 
 
 
@@ -46,7 +46,7 @@ Authors:- Arnav Bhargava, Kunal Paliwal
 - Playing video games
 
 ### Anime
-- [ANIME] : https://github.com/Arnav1771/Anime_I-_am_watching_XDD
+- [ANIME] : (https://github.com/Arnav1771/Anime_I-_am_watching_XDD)
 
 ### Currently Listening To
 - Artist: Imagine Dragons, Eminem , ACDC , GUNS & ROSES , Tokyo Machine ETC.
