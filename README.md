@@ -45,7 +45,7 @@ Authors:- Arnav Bhargava, Kunal Paliwal
 - Playing video games
 
 ### Anime
-- [ANIME](https://github.com/Arnav1771/Anime_I-_am_watching_XDD/blob/main/export.txt)
+- [ANIME](https://myanimelist.net/profile/Stealth_Keqing)
 
 ### Currently Listening To
 - Artist: Imagine Dragons, Eminem , ACDC , GUNS & ROSES , Tokyo Machine ETC.
