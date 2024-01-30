@@ -7,7 +7,7 @@
 - Studying [***Computer Science Specialization with Artificial Intelligence And Machine learning***](https://vitbhopal.ac.in/)
 
 ### Contact Information
-- Email: arnavbhargava57@gmail.com
+- Email: arnavbhargava3@gmail.com
 - LinkedIn: NOT RIGHT NOW!!
 - GitHub:  [Arnav1771](https://github.com/Arnav1771)
 - YouTube: [Arnav Plays](https://www.youtube.com/@arnavplays4468)
