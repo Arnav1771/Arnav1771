@@ -43,16 +43,6 @@ Authors:- Arnav Bhargava
 ### Hobbies
 - Playing Badminton , Swimming , Table Tennis
 - Reading fiction books (manga)
-- latest manga (one piece)
 - Playing video games
 
-### Anime
-- [ANIME](https://myanimelist.net/profile/Stealth_Keqing)
 
-### Currently Listening To
-- Artist: Imagine Dragons, Eminem , ACDC , GUNS & ROSES , Tokyo Machine ETC.
-- [Spotify Playlist #01](https://open.spotify.com/playlist/6F9TDm1Uw7gIOycjEnFihj?si=8ad7c8f7b9fd4563&nd=1)
-- [Spotify Playlist #02](https://open.spotify.com/playlist/63m6YlgxtdYzo8kHY8xshS?si=6903cabafbb3466c&nd=1)
-- [Spotify Playlist #03](https://open.spotify.com/playlist/2q7xfd5yH97eTmWkPbCdFa?si=8de9a41cdac94c50&nd=1)
-- [Spotify Playlist #04](https://open.spotify.com/playlist/1AQLzmkNrvJVAwec9iZSih?si=f982eec371c046df&nd=1)
-- [Spotify Playlist #05](https://open.spotify.com/playlist/6SFsPoKuaT8Jsr2dgs6tUZ?si=f9600fa7097f421c&nd=1)
