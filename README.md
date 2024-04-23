@@ -41,5 +41,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav1771&show_icons=true&locale=en" alt="arnav1771" /></p>
 
-[![Arnav's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<arnavbhargava003
->)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+[![Arnav's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=arnavbhargava003
+)](https://github.com/napiyo/geeksForGeeksStatsAPI)
