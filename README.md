@@ -15,11 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://arnav-bhargava.bss.design/](https://arnav-bhargava.bss.design/)
 
+- 🏆 All of my Certificates are available at [Drive Link]([https://drive.google.com/drive/folders/1aG5zP8VQ_z6uAxlxp94FdGBC3jXpLpN3?usp=sharing])
+
 - 💬 Ask me about **Algorithms , Video Games , Research Projects**
 
 - 📫 How to reach me **arnav.bhargava3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j8MbQ3dO5s-CMhQ3Gl62QzuYkaNvoPFF/view?usp=sharing](https://drive.google.com/file/d/1j8MbQ3dO5s-CMhQ3Gl62QzuYkaNvoPFF/view?usp=sharing)
+- 📄 Know about my experiences [Drive Link][https://drive.google.com/file/d/1j8MbQ3dO5s-CMhQ3Gl62QzuYkaNvoPFF/view?usp=sharing](https://drive.google.com/file/d/1j8MbQ3dO5s-CMhQ3Gl62QzuYkaNvoPFF/view?usp=sharing)
 
 - ⚡ Fun fact **I think i can do Great Things with Great Subordinates**
 
