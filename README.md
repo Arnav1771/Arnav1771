@@ -43,4 +43,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav1771&show_icons=true&locale=en&theme=dark" alt="arnav1771" /></p>
 
-[![Arnav's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=arnavbhargava003)]((https://www.geeksforgeeks.org/user/arnavbhargava003))
+
+[![My GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=arnavbhargava003)](https://www.geeksforgeeks.com/user/arnavbhargava003)
