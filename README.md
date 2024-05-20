@@ -43,5 +43,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav1771&show_icons=true&locale=en&theme=dark" alt="arnav1771" /></p>
 
+![My LeetCode Stats](https://leetcard.jacoblin.cool/Arnav1771?animation=true)
 
 [![My GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=arnavbhargava003)](https://www.geeksforgeeks.com/user/arnavbhargava003)
