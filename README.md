@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arnav Bhargava</h1>
 <h3 align="center">A passionate Programmer and Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav1771&label=Profile%20views&color=0e75b6&style=flat" alt="arnav1771" /> </p>
+![Visitor Count](https://profile-counter.glitch.me/Arnav1771/count.svg)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav1771" alt="arnav1771" /></a> </p>
 
