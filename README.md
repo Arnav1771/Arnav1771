@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **arnav.bhargava3@gmail.com**
 
-- 📄 Know about my experiences [Drive Link][https://drive.google.com/file/d/1j8MbQ3dO5s-CMhQ3Gl62QzuYkaNvoPFF/view?usp=sharing](https://drive.google.com/file/d/1j8MbQ3dO5s-CMhQ3Gl62QzuYkaNvoPFF/view?usp=sharing)
+- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/1j8MbQ3dO5s-CMhQ3Gl62QzuYkaNvoPFF/view?usp=sharing](https://drive.google.com/file/d/1j8MbQ3dO5s-CMhQ3Gl62QzuYkaNvoPFF/view?usp=sharing)
 
 - ⚡ Fun fact **I think i can do Great Things with Great Subordinates**
 
