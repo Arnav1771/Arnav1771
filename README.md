@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arnav-bhargava.bss.design/](https://arnav-bhargava.bss.design/)
 
-- 🏆 All of my Certificates are available at [Drive Link]([https://drive.google.com/drive/folders/1aG5zP8VQ_z6uAxlxp94FdGBC3jXpLpN3?usp=sharing])
+- 🏆 All of my Certificates are available at [Drive Link](https://drive.google.com/drive/folders/1aG5zP8VQ_z6uAxlxp94FdGBC3jXpLpN3?usp=sharing)
 
 - 💬 Ask me about **Algorithms , Video Games , Research Projects**
 
