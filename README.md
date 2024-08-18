@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Algorithms , Video Games , Research Projects**
 
-- 📫 How to reach me **arnav.bhargava3@gmail.com**
+- 📫 How to reach me **arnavbhargava57@gmail.com**
 
 - 📄 Know about my Resume and Past Experiences [Resume](https://drive.google.com/file/d/1j8MbQ3dO5s-CMhQ3Gl62QzuYkaNvoPFF/view?usp=sharing)
 
