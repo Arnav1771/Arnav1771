@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **arnavbhargava57@gmail.com**
 
-- 📄 Know about my Resume and Past Experiences [Resume](https://drive.google.com/file/d/1j8MbQ3dO5s-CMhQ3Gl62QzuYkaNvoPFF/view?usp=sharing)
+- 📄 Know about my Resume and Past Experiences [Resume](https://drive.google.com/file/d/1AegI0ro4tn-aFl1GoyrNXmMyErR8Wqqo/view?usp=sharing)
 
 - 📃 My first Journal Published [Journal](https://ijsret.com/wp-content/uploads/2023/03/IJSRET_V9_issuue2_132.pdf) 
 
