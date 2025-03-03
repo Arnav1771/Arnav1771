@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav1771" alt="arnav1771" /></a> </p>
 
-- 🔭 I’m currently working on **Lithium Ion Battery Sustainability using ML**
+- 🔭 I’m currently working on **Personal Project (PRIVATE) using ML**
 
-- 🌱 I’m currently learning **Django , Flask, flutter , kubernetes**
+- 🌱 I’m currently learning **Docker , Flask**
 
 - 👯 I’m looking to collaborate on **Python And Machine Learning Projects**
 
