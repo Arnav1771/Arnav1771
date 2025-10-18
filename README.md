@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Python And Machine Learning Projects**
 
-- 🤝 I’m looking for help with [Disaster Prediction](https://github.com/Arnav1771/Tornado_Prediction_in_india)
+- 🤝 I’m looking for help with [AI ML Workflows](https://github.com/Arnav1771/Tornado_Prediction_in_india)
 
 - 👨‍💻 All of my projects are available at [https://arnav-bhargava.bss.design/](https://arnav-bhargava.bss.design/)
 
