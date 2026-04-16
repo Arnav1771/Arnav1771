@@ -28,27 +28,151 @@ s# Hi 👋, I'm Arnav Bhargava
 
 - ⚡ **Philosophy:** *"I believe great things are achieved through great teams and continuous innovation"*
 
+---
+
 <div align="center">
 
-### 🌐 Connect with me:
+## 🌐 Connect with me
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />](https://github.com/Arnav1771) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />](https://www.linkedin.com/in/arnav-bhargava-845457280/) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" />](https://kaggle.com/arnav1771) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />](https://www.leetcode.com/arnav1771) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="40" width="40" />](https://auth.geeksforgeeks.org/user/arnavbhargava003/) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />](https://www.hackerrank.com/arnav_bhargava3) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />](https://instagram.com/_arnavbhargava_03) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" />](https://discord.gg/A6naZGm27J)
+<style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+  }
+  
+  @keyframes glow {
+    0%, 100% { box-shadow: 0 0 5px rgba(100, 200, 255, 0.5); }
+    50% { box-shadow: 0 0 20px rgba(100, 200, 255, 0.8); }
+  }
+  
+  .social-link {
+    display: inline-block;
+    margin: 8px;
+    animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite;
+    transition: transform 0.3s ease;
+    border-radius: 8px;
+    padding: 8px;
+  }
+  
+  .social-link:hover {
+    transform: scale(1.2);
+    animation: float 1s ease-in-out infinite;
+  }
+</style>
+
+<a href="https://github.com/Arnav1771" class="social-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/arnav-bhargava-845457280/" class="social-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" /></a>
+<a href="https://kaggle.com/arnav1771" class="social-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/arnav1771" class="social-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="50" /></a>
+<a href="https://auth.geeksforgeeks.org/user/arnavbhargava003/" class="social-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/arnav_bhargava3" class="social-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="50" /></a>
+<a href="https://instagram.com/_arnavbhargava_03" class="social-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" /></a>
+<a href="https://discord.gg/A6naZGm27J" class="social-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="50" width="50" /></a>
 
 </div>
 
-### ⚡ Core Tech Stack (ML/AI First):
+---
 
-**ML/AI & LLM:**  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org) [<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org) [<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>](https://pytorch.org/) [<img src="https://huggingface.co/front/assets/huggingface_logo.png" alt="huggingface" width="40" height="40"/>](https://huggingface.co) [<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>](https://pandas.pydata.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>](https://scikit-learn.org/) [<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>](https://opencv.org/)
+<div align="center">
 
-**Backend & Web:**  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/) [<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>](https://flask.palletsprojects.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/)
+## ⚡ SHOW ME YOUR SKILLS - Core Tech Stack (ML/AI First)
 
-**Databases & Cloud:**  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/) [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>](https://cloud.google.com)
+<style>
+  @keyframes slideInUp {
+    from { 
+      opacity: 0; 
+      transform: translateY(30px); 
+    }
+    to { 
+      opacity: 1; 
+      transform: translateY(0); 
+    }
+  }
+  
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+  }
+  
+  @keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
+  .skill-box {
+    display: inline-block;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 12px;
+    padding: 15px;
+    margin: 8px;
+    animation: slideInUp 0.6s ease-out forwards;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  .skill-box:hover {
+    transform: translateY(-8px) scale(1.05);
+    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+  }
+  
+  .skill-icon {
+    display: inline-block;
+    animation: pulse 2s ease-in-out infinite;
+    transition: transform 0.3s ease;
+  }
+  
+  .skill-box:hover .skill-icon {
+    animation: rotate 1s linear infinite;
+  }
+  
+  .category-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #667eea;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    animation: slideInUp 0.8s ease-out;
+  }
+</style>
 
-**DevOps & Tools:**  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/) [<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>](https://www.djangoproject.com/)
+<div class="category-title">🤖 ML/AI & LLM Mastery</div>
+
+<a href="https://www.python.org" class="skill-box"><img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="45" width="45" title="Python"/></a>
+<a href="https://www.tensorflow.org" class="skill-box"><img class="skill-icon" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="45" width="45" title="TensorFlow"/></a>
+<a href="https://pytorch.org/" class="skill-box"><img class="skill-icon" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="45" width="45" title="PyTorch"/></a>
+<a href="https://huggingface.co" class="skill-box"><img class="skill-icon" src="https://huggingface.co/front/assets/huggingface_logo.png" alt="HuggingFace" height="45" width="45" title="HuggingFace"/></a>
+<a href="https://pandas.pydata.org/" class="skill-box"><img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="45" width="45" title="Pandas"/></a>
+<a href="https://scikit-learn.org/" class="skill-box"><img class="skill-icon" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="45" width="45" title="Scikit-Learn"/></a>
+<a href="https://opencv.org/" class="skill-box"><img class="skill-icon" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="45" width="45" title="OpenCV"/></a>
+
+<div class="category-title">🌐 Backend & Web Development</div>
+
+<a href="https://nodejs.org" class="skill-box"><img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="45" width="45" title="Node.js"/></a>
+<a href="https://reactjs.org/" class="skill-box"><img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="45" width="45" title="React"/></a>
+<a href="https://flask.palletsprojects.com/" class="skill-box"><img class="skill-icon" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="45" width="45" title="Flask"/></a>
+<a href="https://www.typescriptlang.org/" class="skill-box"><img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="45" width="45" title="TypeScript"/></a>
+
+<div class="category-title">💾 Databases & Cloud Infrastructure</div>
+
+<a href="https://www.postgresql.org" class="skill-box"><img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="45" width="45" title="PostgreSQL"/></a>
+<a href="https://www.mysql.com/" class="skill-box"><img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="45" width="45" title="MySQL"/></a>
+<a href="https://www.mongodb.com/" class="skill-box"><img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="45" width="45" title="MongoDB"/></a>
+<a href="https://cloud.google.com" class="skill-box"><img class="skill-icon" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" height="45" width="45" title="Google Cloud"/></a>
+
+<div class="category-title">🔧 DevOps & Tools</div>
+
+<a href="https://www.docker.com/" class="skill-box"><img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="45" width="45" title="Docker"/></a>
+<a href="https://git-scm.com/" class="skill-box"><img class="skill-icon" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="45" width="45" title="Git"/></a>
+<a href="https://www.linux.org/" class="skill-box"><img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="45" width="45" title="Linux"/></a>
+<a href="https://www.djangoproject.com/" class="skill-box"><img class="skill-icon" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="45" width="45" title="Django"/></a>
+
+</div>
+
+---
 
 ---
 
