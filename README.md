@@ -1,11 +1,3 @@
-# 🚀 Dev Portfolio
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&height=220&text=Arnav1771&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Backend+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing animation" />
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
