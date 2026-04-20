@@ -18,6 +18,9 @@
   <a href="https://github.com/Arnav1771">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/Arnav1771/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </div>
 
 ---
@@ -45,13 +48,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-<div align="center">
-  <img src="./gg.svg" alt="Contribution Snake Animation" />
-</div>
-
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arnav1771&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav1771&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+<div align="center">
+  <img height="170" src="https://leetcard.jacoblin.cool/Arnav1771?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+</div>
+
+---
+
+## 🛠️ Products Made
+
+1. [Temp Repo](https://temp-repo-ecru.vercel.app/)
+2. [GuiltHub on Product Hunt](https://www.producthunt.com/products/guilthub)
