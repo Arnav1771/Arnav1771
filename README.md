@@ -37,7 +37,7 @@ achievements:
 
 <!-- ⚡ KEQING PROCRASTINATION DIALOG BOX ⚡ -->
 <div align="center">
-<img src="./keqing_dialog.png" width="100%"/>
+<img src="./keqing_dialog.gif" width="100%"/>
 </div>
 ---
 
