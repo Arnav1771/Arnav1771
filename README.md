@@ -38,20 +38,9 @@ achievements:
 <!-- ⚡ KEQING PROCRASTINATION DIALOG BOX ⚡ -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  ⚡  K E Q I N G  —  [ Yuheng of the Liyue Qixing ]                ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   "Procrastination is a bad habit. Don't put off until tomorrow     ║
-║    what you can accomplish today. Of course, you probably can't     ║
-║    change a deeply-ingrained bad habit overnight — so I suggest     ║
-║    you start training yourself right now, this very second."        ║
-║                                                                      ║
-║   "Come on. Enough procrastinating. Let's go."                      ║
-║                                                              — ⚡    ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/Arnav1771/Arnav1771/main/keqing_dialog.svg" width="100%"/>
+</div>
 
 </div>
 
