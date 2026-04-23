@@ -31,14 +31,11 @@ achievements:
   - CS50 · IBM AI · Meta · Google · DL.AI Certified
 ```
 
-
-
----
-
 <!-- ⚡ KEQING PROCRASTINATION DIALOG BOX ⚡ -->
 <div align="center">
-<img src="./keqing_diadwalog.gif" width="100%"/>
+<img src="./keqing_v2_final.gif" width="100%"/>
 </div>
+
 ---
 
 ## `> cat skills.json`
